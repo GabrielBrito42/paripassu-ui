@@ -8,6 +8,11 @@ A system to complete manage and generate a passwords queue
 4.Run yarn or npm install<br/>
 5.Run npm start<br/>
 
+## How to use
+You can click on the button in the top of the page to change between manager and client mode<br/>
+In client mode you can only pick passwords for you, preferencial ou normal by clicking the buttons on top of the card<br/>
+In manager mode you can call the passwords that are on queue and reset the passwords count to zero
+
 Application will start at http://localhost:3000/
 
 ## Preview
