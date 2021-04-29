@@ -1,0 +1,60 @@
+.home-container{
+    font-size: 12pt;
+
+    .passwords{
+        margin-top: 10%;
+    }
+
+    .card{
+        text-align: center;
+        background-color: #484f58;
+        color: white;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        border-radius: 5px;
+        padding: 20px;
+        margin-bottom: 5px;
+        font-size: 15pt;
+        height: 400px;
+    }
+
+    button{
+        width: 100%;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        margin-left: 10px;
+        background-color: #58a6ff;
+    }
+
+    .manager-button{
+        background-color: #21262d !important;
+    }
+
+    .header{
+        background-color: #58a6ff;
+        padding-right: 50px !important;
+        padding-left: 50px !important;
+        margin: auto;
+    }
+
+    .smaller-screen{
+        height: 90px !important;
+        padding: 40px;
+        padding-left: 50px;
+    }
+
+    .big-screen{
+        height: 90px !important;
+        padding: 50px;
+        font-size: 40px !important;
+    }
+
+    span{
+        font-size: 20px;
+        color: #77dd77;
+    }
+
+    .col-3{
+        padding-right: 25px !important;
+        padding-left: 0px !important;
+    }
+}
