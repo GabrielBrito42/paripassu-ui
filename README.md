@@ -12,6 +12,6 @@ Application will start at http://localhost:3000/
 
 ## Preview
 
-![Capturar](https://user-images.githubusercontent.com/32067188/116487861-5b317d80-a867-11eb-8b0c-3c80de9f562c.PNG)
+![Capturar](https://user-images.githubusercontent.com/32067188/116487934-8caa4900-a867-11eb-9349-724e64a03ec6.PNG)
 
-![Capturar2](https://user-images.githubusercontent.com/32067188/116487866-5e2c6e00-a867-11eb-80ad-840cf47da8a1.PNG)
+![Capturar2](https://user-images.githubusercontent.com/32067188/116487937-8f0ca300-a867-11eb-86c4-89eadcf97dda.PNG)
